@@ -1,0 +1,1 @@
+SELECT category, SUM(rating_count) FROM products GROUP BY category ORDER BY SUM(rating_count) DESC LIMIT 5;
