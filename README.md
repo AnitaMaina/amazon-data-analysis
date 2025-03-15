@@ -7,3 +7,4 @@ Review Discrepancies: Some products exhibited a high volume of reviews but lower
 Data Quality: Some data quality issues were observed, including missing values in rating counts and inconsistent formatting in price and discount columns, which were addressed during preprocessing.
 Category Performance Variation: Significant variations in average ratings and sales performance were observed across different product categories, emphasizing the need for category-specific strategies.
 High Rated Low Review Count: Some products had very high ratings, but very low review counts. This could indicate newer products that are very well received.# amazon-ecommerce-analysis"# amazon" 
+"# amazon-data-analysis" 
